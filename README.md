@@ -2,7 +2,7 @@
 >#### A CNN for classification of retinal fundus images built using Keras with tensorflow backend
 ## Project Structure
 <body>
-    <h1>Directory Tree</h1>
+    <h3>Directory Tree</h3>
     <p>
         <a>./</a><br>
         ├── <a>data</a><br>
